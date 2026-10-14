@@ -1,0 +1,5 @@
+venv/
+.streamlit/secrets.toml
+data/embed_cache.json
+data/checklist.pdf
+__pycache__/

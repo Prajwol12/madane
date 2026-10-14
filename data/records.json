@@ -1,0 +1,3162 @@
+[
+ {
+  "common": "Hill Partridge",
+  "scientific": "Arborophila torqueola",
+  "order": "GALLIFORMES",
+  "family": "Phasianidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Hill Partridge (Arborophila torqueola), order GALLIFORMES, family Phasianidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Rufous-throated Partridge",
+  "scientific": "Arborophila rufogularis",
+  "order": "GALLIFORMES",
+  "family": "Phasianidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Rufous-throated Partridge (Arborophila rufogularis), order GALLIFORMES, family Phasianidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Cheer Pheasant",
+  "scientific": "Catreus wallichii",
+  "order": "GALLIFORMES",
+  "family": "Phasianidae",
+  "gts": "VU",
+  "nts": "EN",
+  "cites": "I",
+  "text": "Cheer Pheasant (Catreus wallichii), order GALLIFORMES, family Phasianidae. Recorded in Madane Forest Conservation Area. Global status: VU. National status: EN. CITES: Appendix I."
+ },
+ {
+  "common": "Koklass Pheasant",
+  "scientific": "Pucrasia macrolopha",
+  "order": "GALLIFORMES",
+  "family": "Phasianidae",
+  "gts": "",
+  "nts": "VU",
+  "cites": "III",
+  "text": "Koklass Pheasant (Pucrasia macrolopha), order GALLIFORMES, family Phasianidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: VU. CITES: Appendix III."
+ },
+ {
+  "common": "Kalij Pheasant",
+  "scientific": "Lophura leucomelanos",
+  "order": "GALLIFORMES",
+  "family": "Phasianidae",
+  "gts": "",
+  "nts": "",
+  "cites": "III",
+  "text": "Kalij Pheasant (Lophura leucomelanos), order GALLIFORMES, family Phasianidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: Appendix III."
+ },
+ {
+  "common": "Black Francolin",
+  "scientific": "Francolinus francolinus",
+  "order": "GALLIFORMES",
+  "family": "Phasianidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Black Francolin (Francolinus francolinus), order GALLIFORMES, family Phasianidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Common Pochard",
+  "scientific": "Aythya ferina",
+  "order": "ANSERIFORMES",
+  "family": "Anatidae",
+  "gts": "VU",
+  "nts": "",
+  "cites": "",
+  "text": "Common Pochard (Aythya ferina), order ANSERIFORMES, family Anatidae. Recorded in Madane Forest Conservation Area. Global status: VU. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Ruddy Shelduck",
+  "scientific": "Tadorna ferruginea",
+  "order": "ANSERIFORMES",
+  "family": "Anatidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Ruddy Shelduck (Tadorna ferruginea), order ANSERIFORMES, family Anatidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Rock Dove",
+  "scientific": "Columba livia",
+  "order": "COLUMBIFORMES",
+  "family": "Columbidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Rock Dove (Columba livia), order COLUMBIFORMES, family Columbidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Snow Pigeon",
+  "scientific": "Columba leuconota",
+  "order": "COLUMBIFORMES",
+  "family": "Columbidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Snow Pigeon (Columba leuconota), order COLUMBIFORMES, family Columbidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Ashy Woodpigeon",
+  "scientific": "Columba pulchricollis",
+  "order": "COLUMBIFORMES",
+  "family": "Columbidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Ashy Woodpigeon (Columba pulchricollis), order COLUMBIFORMES, family Columbidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Common Woodpigeon",
+  "scientific": "Columba palumbus",
+  "order": "COLUMBIFORMES",
+  "family": "Columbidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Common Woodpigeon (Columba palumbus), order COLUMBIFORMES, family Columbidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Speckled Woodpigeon",
+  "scientific": "Columba hodgsonii",
+  "order": "COLUMBIFORMES",
+  "family": "Columbidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Speckled Woodpigeon (Columba hodgsonii), order COLUMBIFORMES, family Columbidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Oriental Turtle-dove",
+  "scientific": "Streptopelia orientalis",
+  "order": "COLUMBIFORMES",
+  "family": "Columbidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Oriental Turtle-dove (Streptopelia orientalis), order COLUMBIFORMES, family Columbidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Eurasian Collared- dove",
+  "scientific": "Streptopelia decaocto",
+  "order": "COLUMBIFORMES",
+  "family": "Columbidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Eurasian Collared- dove (Streptopelia decaocto), order COLUMBIFORMES, family Columbidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Western Spotted Dove",
+  "scientific": "Spilopelia suratensis",
+  "order": "COLUMBIFORMES",
+  "family": "Columbidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Western Spotted Dove (Spilopelia suratensis), order COLUMBIFORMES, family Columbidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Wedge-tailed Green- pigeon",
+  "scientific": "Treron sphenurus",
+  "order": "COLUMBIFORMES",
+  "family": "Columbidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Wedge-tailed Green- pigeon (Treron sphenurus), order COLUMBIFORMES, family Columbidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Grey Nightjar",
+  "scientific": "Caprimulgus jotaka",
+  "order": "CAPRIMULGIFORMES",
+  "family": "Caprimulgidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Grey Nightjar (Caprimulgus jotaka), order CAPRIMULGIFORMES, family Caprimulgidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Alpine Swift",
+  "scientific": "Tachymarptis melba",
+  "order": "CAPRIMULGIFORMES",
+  "family": "Apodidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Alpine Swift (Tachymarptis melba), order CAPRIMULGIFORMES, family Apodidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "House Swift",
+  "scientific": "Apus nipalensis",
+  "order": "CAPRIMULGIFORMES",
+  "family": "Apodidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "House Swift (Apus nipalensis), order CAPRIMULGIFORMES, family Apodidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Pacific Swift",
+  "scientific": "Apus pacificus",
+  "order": "CAPRIMULGIFORMES",
+  "family": "Apodidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Pacific Swift (Apus pacificus), order CAPRIMULGIFORMES, family Apodidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Himalayan Swiftlet",
+  "scientific": "Aerodramus brevirostris",
+  "order": "CAPRIMULGIFORMES",
+  "family": "Apodidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Himalayan Swiftlet (Aerodramus brevirostris), order CAPRIMULGIFORMES, family Apodidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Greater Coucal",
+  "scientific": "Centropus sinensis",
+  "order": "CUCULIFORMES",
+  "family": "Cuculidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Greater Coucal (Centropus sinensis), order CUCULIFORMES, family Cuculidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Green-billed Malkoha",
+  "scientific": "Phaenicophaeus tristis",
+  "order": "CUCULIFORMES",
+  "family": "Cuculidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Green-billed Malkoha (Phaenicophaeus tristis), order CUCULIFORMES, family Cuculidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Common Hawk- cuckoo",
+  "scientific": "Hierococcyx varius",
+  "order": "CUCULIFORMES",
+  "family": "Cuculidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Common Hawk- cuckoo (Hierococcyx varius), order CUCULIFORMES, family Cuculidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Grey-bellied Cuckoo",
+  "scientific": "Cacomantis passerinus",
+  "order": "CUCULIFORMES",
+  "family": "Cuculidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Grey-bellied Cuckoo (Cacomantis passerinus), order CUCULIFORMES, family Cuculidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Large Hawk-cuckoo",
+  "scientific": "Hierococcyx sparverioides",
+  "order": "CUCULIFORMES",
+  "family": "Cuculidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Large Hawk-cuckoo (Hierococcyx sparverioides), order CUCULIFORMES, family Cuculidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Western Koel",
+  "scientific": "Eudynamys scolopaceus",
+  "order": "CUCULIFORMES",
+  "family": "Cuculidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Western Koel (Eudynamys scolopaceus), order CUCULIFORMES, family Cuculidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Common Cuckoo",
+  "scientific": "Cuculus canorus",
+  "order": "CUCULIFORMES",
+  "family": "Cuculidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Common Cuckoo (Cuculus canorus), order CUCULIFORMES, family Cuculidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Himalayan Cuckoo",
+  "scientific": "Cuculus saturatus",
+  "order": "CUCULIFORMES",
+  "family": "Cuculidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Himalayan Cuckoo (Cuculus saturatus), order CUCULIFORMES, family Cuculidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Indian Cuckoo",
+  "scientific": "Cuculus micropterus",
+  "order": "CUCULIFORMES",
+  "family": "Cuculidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Indian Cuckoo (Cuculus micropterus), order CUCULIFORMES, family Cuculidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Lesser Cuckoo",
+  "scientific": "Cuculus poliocephalus",
+  "order": "CUCULIFORMES",
+  "family": "Cuculidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Lesser Cuckoo (Cuculus poliocephalus), order CUCULIFORMES, family Cuculidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "White-breasted Waterhen",
+  "scientific": "Amaurornis phoenicurus",
+  "order": "GRUIFORMES",
+  "family": "Rallidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "White-breasted Waterhen (Amaurornis phoenicurus), order GRUIFORMES, family Rallidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Asian Woollyneck",
+  "scientific": "Ciconia episcopus",
+  "order": "CICONIIFORMES",
+  "family": "Ciconiidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Asian Woollyneck (Ciconia episcopus), order CICONIIFORMES, family Ciconiidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Black Stork",
+  "scientific": "Ciconia nigra",
+  "order": "CICONIIFORMES",
+  "family": "Ciconiidae",
+  "gts": "",
+  "nts": "VU",
+  "cites": "II",
+  "text": "Black Stork (Ciconia nigra), order CICONIIFORMES, family Ciconiidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: VU. CITES: Appendix II."
+ },
+ {
+  "common": "White Stork",
+  "scientific": "Ciconia ciconia",
+  "order": "CICONIIFORMES",
+  "family": "Ciconiidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "White Stork (Ciconia ciconia), order CICONIIFORMES, family Ciconiidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Indian Pond Heron",
+  "scientific": "Ardeola grayii",
+  "order": "PELECANIFORMES",
+  "family": "Ardeidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Indian Pond Heron (Ardeola grayii), order PELECANIFORMES, family Ardeidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Cattle Egret",
+  "scientific": "Bubulcus ibis",
+  "order": "PELECANIFORMES",
+  "family": "Ardeidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Cattle Egret (Bubulcus ibis), order PELECANIFORMES, family Ardeidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Little Egret",
+  "scientific": "Egretta garzetta",
+  "order": "PELECANIFORMES",
+  "family": "Ardeidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Little Egret (Egretta garzetta), order PELECANIFORMES, family Ardeidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Great Cormorant",
+  "scientific": "Phalacrocorax carbo",
+  "order": "SULIFORMES",
+  "family": "Phalacrocoracidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Great Cormorant (Phalacrocorax carbo), order SULIFORMES, family Phalacrocoracidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Little Cormorant",
+  "scientific": "Microcarbo niger",
+  "order": "SULIFORMES",
+  "family": "Phalacrocoracidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Little Cormorant (Microcarbo niger), order SULIFORMES, family Phalacrocoracidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Red-wattled Lapwing",
+  "scientific": "Vanellus indicus",
+  "order": "SULIFORMES",
+  "family": "Charadriidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Red-wattled Lapwing (Vanellus indicus), order SULIFORMES, family Charadriidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Eurasian Woodcock",
+  "scientific": "Scolopax rusticola",
+  "order": "SULIFORMES",
+  "family": "Scolopacidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Eurasian Woodcock (Scolopax rusticola), order SULIFORMES, family Scolopacidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Collared Owlet",
+  "scientific": "Glaucidium brodiei",
+  "order": "STRIGIFORMES",
+  "family": "Strigidae",
+  "gts": "",
+  "nts": "",
+  "cites": "II",
+  "text": "Collared Owlet (Glaucidium brodiei), order STRIGIFORMES, family Strigidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: Appendix II."
+ },
+ {
+  "common": "Asian Barred Owlet",
+  "scientific": "Glaucidium cuculoides",
+  "order": "STRIGIFORMES",
+  "family": "Strigidae",
+  "gts": "",
+  "nts": "",
+  "cites": "II",
+  "text": "Asian Barred Owlet (Glaucidium cuculoides), order STRIGIFORMES, family Strigidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: Appendix II."
+ },
+ {
+  "common": "Mountain Scops-owl",
+  "scientific": "Otus spilocephalus",
+  "order": "STRIGIFORMES",
+  "family": "Strigidae",
+  "gts": "",
+  "nts": "",
+  "cites": "II",
+  "text": "Mountain Scops-owl (Otus spilocephalus), order STRIGIFORMES, family Strigidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: Appendix II."
+ },
+ {
+  "common": "Eurasian Eagle-owl",
+  "scientific": "Bubo bubo",
+  "order": "STRIGIFORMES",
+  "family": "Strigidae",
+  "gts": "",
+  "nts": "DD",
+  "cites": "II",
+  "text": "Eurasian Eagle-owl (Bubo bubo), order STRIGIFORMES, family Strigidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: DD. CITES: Appendix II."
+ },
+ {
+  "common": "Himalayan Owl",
+  "scientific": "Strix nivicolum",
+  "order": "STRIGIFORMES",
+  "family": "Strigidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Himalayan Owl (Strix nivicolum), order STRIGIFORMES, family Strigidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Short-eared Owl",
+  "scientific": "Asio flammeus",
+  "order": "STRIGIFORMES",
+  "family": "Strigidae",
+  "gts": "",
+  "nts": "VU",
+  "cites": "II",
+  "text": "Short-eared Owl (Asio flammeus), order STRIGIFORMES, family Strigidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: VU. CITES: Appendix II."
+ },
+ {
+  "common": "Bearded Vulture",
+  "scientific": "Gypaetus barbatus",
+  "order": "ACCIPITRIFORMES",
+  "family": "Accipitridae",
+  "gts": "",
+  "nts": "VU",
+  "cites": "II",
+  "text": "Bearded Vulture (Gypaetus barbatus), order ACCIPITRIFORMES, family Accipitridae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: VU. CITES: Appendix II."
+ },
+ {
+  "common": "Cinereous Vulture",
+  "scientific": "Aegypius monachus",
+  "order": "ACCIPITRIFORMES",
+  "family": "Accipitridae",
+  "gts": "",
+  "nts": "EN",
+  "cites": "II",
+  "text": "Cinereous Vulture (Aegypius monachus), order ACCIPITRIFORMES, family Accipitridae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: EN. CITES: Appendix II."
+ },
+ {
+  "common": "Egyptian Vulture",
+  "scientific": "Neophron percnopterus",
+  "order": "ACCIPITRIFORMES",
+  "family": "Accipitridae",
+  "gts": "EN",
+  "nts": "VU",
+  "cites": "II",
+  "text": "Egyptian Vulture (Neophron percnopterus), order ACCIPITRIFORMES, family Accipitridae. Recorded in Madane Forest Conservation Area. Global status: EN. National status: VU. CITES: Appendix II."
+ },
+ {
+  "common": "Himalayan Griffon",
+  "scientific": "Gyps himalayensis",
+  "order": "ACCIPITRIFORMES",
+  "family": "Accipitridae",
+  "gts": "",
+  "nts": "VU",
+  "cites": "II",
+  "text": "Himalayan Griffon (Gyps himalayensis), order ACCIPITRIFORMES, family Accipitridae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: VU. CITES: Appendix II."
+ },
+ {
+  "common": "Red-headed Vulture",
+  "scientific": "Sarcogyps calvus",
+  "order": "ACCIPITRIFORMES",
+  "family": "Accipitridae",
+  "gts": "CR",
+  "nts": "EN",
+  "cites": "II",
+  "text": "Red-headed Vulture (Sarcogyps calvus), order ACCIPITRIFORMES, family Accipitridae. Recorded in Madane Forest Conservation Area. Global status: CR. National status: EN. CITES: Appendix II."
+ },
+ {
+  "common": "White-rumped Vulture",
+  "scientific": "Gyps bengalensis",
+  "order": "ACCIPITRIFORMES",
+  "family": "Accipitridae",
+  "gts": "CR",
+  "nts": "CR",
+  "cites": "II",
+  "text": "White-rumped Vulture (Gyps bengalensis), order ACCIPITRIFORMES, family Accipitridae. Recorded in Madane Forest Conservation Area. Global status: CR. National status: CR. CITES: Appendix II."
+ },
+ {
+  "common": "Mountain Hawk-eagle",
+  "scientific": "Nisaetus nipalensis",
+  "order": "ACCIPITRIFORMES",
+  "family": "Accipitridae",
+  "gts": "",
+  "nts": "",
+  "cites": "II",
+  "text": "Mountain Hawk-eagle (Nisaetus nipalensis), order ACCIPITRIFORMES, family Accipitridae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: Appendix II."
+ },
+ {
+  "common": "Black Eagle",
+  "scientific": "Ictinaetus malaiensis",
+  "order": "ACCIPITRIFORMES",
+  "family": "Accipitridae",
+  "gts": "",
+  "nts": "",
+  "cites": "II",
+  "text": "Black Eagle (Ictinaetus malaiensis), order ACCIPITRIFORMES, family Accipitridae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: Appendix II."
+ },
+ {
+  "common": "Bonelli’s Eagle",
+  "scientific": "Aquila fasciata",
+  "order": "ACCIPITRIFORMES",
+  "family": "Accipitridae",
+  "gts": "",
+  "nts": "",
+  "cites": "II",
+  "text": "Bonelli’s Eagle (Aquila fasciata), order ACCIPITRIFORMES, family Accipitridae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: Appendix II."
+ },
+ {
+  "common": "Booted Eagle",
+  "scientific": "Hieraaetus pennatus",
+  "order": "ACCIPITRIFORMES",
+  "family": "Accipitridae",
+  "gts": "",
+  "nts": "",
+  "cites": "II",
+  "text": "Booted Eagle (Hieraaetus pennatus), order ACCIPITRIFORMES, family Accipitridae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: Appendix II."
+ },
+ {
+  "common": "Crested Serpent-eagle",
+  "scientific": "Spilornis cheela",
+  "order": "ACCIPITRIFORMES",
+  "family": "Accipitridae",
+  "gts": "",
+  "nts": "",
+  "cites": "II",
+  "text": "Crested Serpent-eagle (Spilornis cheela), order ACCIPITRIFORMES, family Accipitridae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: Appendix II."
+ },
+ {
+  "common": "Eastern Imperial Eagle",
+  "scientific": "Aquila heliaca",
+  "order": "ACCIPITRIFORMES",
+  "family": "Accipitridae",
+  "gts": "VU",
+  "nts": "CR",
+  "cites": "I",
+  "text": "Eastern Imperial Eagle (Aquila heliaca), order ACCIPITRIFORMES, family Accipitridae. Recorded in Madane Forest Conservation Area. Global status: VU. National status: CR. CITES: Appendix I."
+ },
+ {
+  "common": "Steppe Eagle",
+  "scientific": "Aquila nipalensis",
+  "order": "ACCIPITRIFORMES",
+  "family": "Accipitridae",
+  "gts": "EN",
+  "nts": "VU",
+  "cites": "II",
+  "text": "Steppe Eagle (Aquila nipalensis), order ACCIPITRIFORMES, family Accipitridae. Recorded in Madane Forest Conservation Area. Global status: EN. National status: VU. CITES: Appendix II."
+ },
+ {
+  "common": "Crested Goshawk",
+  "scientific": "Accipiter trivirgatus",
+  "order": "ACCIPITRIFORMES",
+  "family": "Accipitridae",
+  "gts": "",
+  "nts": "",
+  "cites": "II",
+  "text": "Crested Goshawk (Accipiter trivirgatus), order ACCIPITRIFORMES, family Accipitridae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: Appendix II."
+ },
+ {
+  "common": "Eurasian Sparrowhawk",
+  "scientific": "Accipiter nisus",
+  "order": "ACCIPITRIFORMES",
+  "family": "Accipitridae",
+  "gts": "",
+  "nts": "",
+  "cites": "II",
+  "text": "Eurasian Sparrowhawk (Accipiter nisus), order ACCIPITRIFORMES, family Accipitridae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: Appendix II."
+ },
+ {
+  "common": "Black Kite",
+  "scientific": "Milvus migrans",
+  "order": "ACCIPITRIFORMES",
+  "family": "Accipitridae",
+  "gts": "",
+  "nts": "",
+  "cites": "II",
+  "text": "Black Kite (Milvus migrans), order ACCIPITRIFORMES, family Accipitridae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: Appendix II."
+ },
+ {
+  "common": "Northern Goshawk",
+  "scientific": "Accipiter gentilis",
+  "order": "ACCIPITRIFORMES",
+  "family": "Accipitridae",
+  "gts": "",
+  "nts": "",
+  "cites": "II",
+  "text": "Northern Goshawk (Accipiter gentilis), order ACCIPITRIFORMES, family Accipitridae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: Appendix II."
+ },
+ {
+  "common": "Shikra",
+  "scientific": "Accipiter badius",
+  "order": "ACCIPITRIFORMES",
+  "family": "Accipitridae",
+  "gts": "",
+  "nts": "",
+  "cites": "II",
+  "text": "Shikra (Accipiter badius), order ACCIPITRIFORMES, family Accipitridae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: Appendix II."
+ },
+ {
+  "common": "Besra",
+  "scientific": "Accipiter virgatus",
+  "order": "ACCIPITRIFORMES",
+  "family": "Accipitridae",
+  "gts": "",
+  "nts": "",
+  "cites": "II",
+  "text": "Besra (Accipiter virgatus), order ACCIPITRIFORMES, family Accipitridae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: Appendix II."
+ },
+ {
+  "common": "Hen Harrier",
+  "scientific": "Circus cyaneus",
+  "order": "ACCIPITRIFORMES",
+  "family": "Accipitridae",
+  "gts": "",
+  "nts": "VU",
+  "cites": "II",
+  "text": "Hen Harrier (Circus cyaneus), order ACCIPITRIFORMES, family Accipitridae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: VU. CITES: Appendix II."
+ },
+ {
+  "common": "Oriental Honey- buzzard",
+  "scientific": "Pernis ptilorhynchus",
+  "order": "ACCIPITRIFORMES",
+  "family": "Accipitridae",
+  "gts": "",
+  "nts": "",
+  "cites": "II",
+  "text": "Oriental Honey- buzzard (Pernis ptilorhynchus), order ACCIPITRIFORMES, family Accipitridae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: Appendix II."
+ },
+ {
+  "common": "Himalayan Buzzard",
+  "scientific": "Buteo refectus",
+  "order": "ACCIPITRIFORMES",
+  "family": "Accipitridae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Himalayan Buzzard (Buteo refectus), order ACCIPITRIFORMES, family Accipitridae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Upland Buzzard",
+  "scientific": "Buteo hemilasius",
+  "order": "ACCIPITRIFORMES",
+  "family": "Accipitridae",
+  "gts": "",
+  "nts": "",
+  "cites": "II",
+  "text": "Upland Buzzard (Buteo hemilasius), order ACCIPITRIFORMES, family Accipitridae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: Appendix II."
+ },
+ {
+  "common": "Common Hoopoe",
+  "scientific": "Upupa epops",
+  "order": "BUCEROTIFORMES",
+  "family": "Upupidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Common Hoopoe (Upupa epops), order BUCEROTIFORMES, family Upupidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Blue-bearded Bee- eater",
+  "scientific": "Nyctyornis athertoni",
+  "order": "CORACIIFORMES",
+  "family": "Meropidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Blue-bearded Bee- eater (Nyctyornis athertoni), order CORACIIFORMES, family Meropidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Chestnut-headed Bee-eater",
+  "scientific": "Merops leschenaulti",
+  "order": "CORACIIFORMES",
+  "family": "Meropidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Chestnut-headed Bee-eater (Merops leschenaulti), order CORACIIFORMES, family Meropidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Indian Roller",
+  "scientific": "Coracias benghalensis",
+  "order": "CORACIIFORMES",
+  "family": "Coraciidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Indian Roller (Coracias benghalensis), order CORACIIFORMES, family Coraciidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Common Kingfisher",
+  "scientific": "Alcedo atthis",
+  "order": "CORACIIFORMES",
+  "family": "Alcedinidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Common Kingfisher (Alcedo atthis), order CORACIIFORMES, family Alcedinidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Crested Kingfisher",
+  "scientific": "Megaceryle lugubris",
+  "order": "CORACIIFORMES",
+  "family": "Alcedinidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Crested Kingfisher (Megaceryle lugubris), order CORACIIFORMES, family Alcedinidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "White-throated Kingfisher",
+  "scientific": "Halcyon smyrnensis",
+  "order": "CORACIIFORMES",
+  "family": "Alcedinidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "White-throated Kingfisher (Halcyon smyrnensis), order CORACIIFORMES, family Alcedinidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Blue-throated Barbet",
+  "scientific": "Psilopogon asiaticus",
+  "order": "PICIFORMES",
+  "family": "Megalaimidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Blue-throated Barbet (Psilopogon asiaticus), order PICIFORMES, family Megalaimidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Golden-throated Barbet",
+  "scientific": "Psilopogon franklinii",
+  "order": "PICIFORMES",
+  "family": "Megalaimidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Golden-throated Barbet (Psilopogon franklinii), order PICIFORMES, family Megalaimidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Great Barbet",
+  "scientific": "Psilopogon virens",
+  "order": "PICIFORMES",
+  "family": "Megalaimidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Great Barbet (Psilopogon virens), order PICIFORMES, family Megalaimidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Yellow-rumped Honeyguide",
+  "scientific": "Indicator xanthonotus",
+  "order": "PICIFORMES",
+  "family": "Indicatoridae",
+  "gts": "",
+  "nts": "EN",
+  "cites": "",
+  "text": "Yellow-rumped Honeyguide (Indicator xanthonotus), order PICIFORMES, family Indicatoridae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: EN. CITES: not listed."
+ },
+ {
+  "common": "Eurasian Wryneck",
+  "scientific": "Jynx torquilla",
+  "order": "PICIFORMES",
+  "family": "Picidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Eurasian Wryneck (Jynx torquilla), order PICIFORMES, family Picidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Speckled Piculet",
+  "scientific": "Picumnus innominatus",
+  "order": "PICIFORMES",
+  "family": "Picidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Speckled Piculet (Picumnus innominatus), order PICIFORMES, family Picidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Greater Yellownape",
+  "scientific": "Chrysophlegma flavinucha",
+  "order": "PICIFORMES",
+  "family": "Picidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Greater Yellownape (Chrysophlegma flavinucha), order PICIFORMES, family Picidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Lesser Yellownape",
+  "scientific": "Picus chlorolophus",
+  "order": "PICIFORMES",
+  "family": "Picidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Lesser Yellownape (Picus chlorolophus), order PICIFORMES, family Picidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Black-naped Woodpecker",
+  "scientific": "Picus guerini",
+  "order": "PICIFORMES",
+  "family": "Picidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Black-naped Woodpecker (Picus guerini), order PICIFORMES, family Picidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Brown-fronted Woodpecker",
+  "scientific": "Leiopicus auriceps",
+  "order": "PICIFORMES",
+  "family": "Picidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Brown-fronted Woodpecker (Leiopicus auriceps), order PICIFORMES, family Picidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Darjeeling Woodpecker",
+  "scientific": "Dendrocopos darjellensis",
+  "order": "PICIFORMES",
+  "family": "Picidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Darjeeling Woodpecker (Dendrocopos darjellensis), order PICIFORMES, family Picidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Fulvous-breasted Woodpecker",
+  "scientific": "Dendrocopos macei",
+  "order": "PICIFORMES",
+  "family": "Picidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Fulvous-breasted Woodpecker (Dendrocopos macei), order PICIFORMES, family Picidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Grey-capped Woodpecker",
+  "scientific": "Picoides canicapillus",
+  "order": "PICIFORMES",
+  "family": "Picidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Grey-capped Woodpecker (Picoides canicapillus), order PICIFORMES, family Picidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Rufous Woodpecker",
+  "scientific": "Micropternus brachyurus",
+  "order": "PICIFORMES",
+  "family": "Picidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Rufous Woodpecker (Micropternus brachyurus), order PICIFORMES, family Picidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Rufous-bellied Woodpecker",
+  "scientific": "Dendrocopos hyperythrus",
+  "order": "PICIFORMES",
+  "family": "Picidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Rufous-bellied Woodpecker (Dendrocopos hyperythrus), order PICIFORMES, family Picidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Scarlet-breasted Woodpecker",
+  "scientific": "Dryobates cathpharius",
+  "order": "PICIFORMES",
+  "family": "Picidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Scarlet-breasted Woodpecker (Dryobates cathpharius), order PICIFORMES, family Picidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Common Kestrel",
+  "scientific": "Falco tinnunculus",
+  "order": "FALCONIFORMES",
+  "family": "Falconidae",
+  "gts": "",
+  "nts": "",
+  "cites": "II",
+  "text": "Common Kestrel (Falco tinnunculus), order FALCONIFORMES, family Falconidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: Appendix II."
+ },
+ {
+  "common": "Eurasian Hobby",
+  "scientific": "Falco subbuteo",
+  "order": "FALCONIFORMES",
+  "family": "Falconidae",
+  "gts": "",
+  "nts": "",
+  "cites": "II",
+  "text": "Eurasian Hobby (Falco subbuteo), order FALCONIFORMES, family Falconidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: Appendix II."
+ },
+ {
+  "common": "Peregrine Falcon",
+  "scientific": "Falco peregrinus",
+  "order": "FALCONIFORMES",
+  "family": "Falconidae",
+  "gts": "",
+  "nts": "",
+  "cites": "I",
+  "text": "Peregrine Falcon (Falco peregrinus), order FALCONIFORMES, family Falconidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: Appendix I."
+ },
+ {
+  "common": "Plum-headed Parakeet",
+  "scientific": "Himalayapsitta cyanocephala",
+  "order": "PSITTACIFORMES",
+  "family": "Psittacidae",
+  "gts": "",
+  "nts": "",
+  "cites": "II",
+  "text": "Plum-headed Parakeet (Himalayapsitta cyanocephala), order PSITTACIFORMES, family Psittacidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: Appendix II."
+ },
+ {
+  "common": "Rose-ringed Parakeet",
+  "scientific": "Alexandrinus krameri",
+  "order": "PSITTACIFORMES",
+  "family": "Psittacidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Rose-ringed Parakeet (Alexandrinus krameri), order PSITTACIFORMES, family Psittacidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Slaty-headed Parakeet",
+  "scientific": "Himalayapsitta himalayana",
+  "order": "PSITTACIFORMES",
+  "family": "Psittacidae",
+  "gts": "",
+  "nts": "",
+  "cites": "II",
+  "text": "Slaty-headed Parakeet (Himalayapsitta himalayana), order PSITTACIFORMES, family Psittacidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: Appendix II."
+ },
+ {
+  "common": "Long-tailed Broadbill",
+  "scientific": "Psarisomus dalhousiae",
+  "order": "PASSERIFORMES",
+  "family": "Eurylaimidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Long-tailed Broadbill (Psarisomus dalhousiae), order PASSERIFORMES, family Eurylaimidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Indian Golden Oriole",
+  "scientific": "Oriolus kundoo",
+  "order": "PASSERIFORMES",
+  "family": "Oriolidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Indian Golden Oriole (Oriolus kundoo), order PASSERIFORMES, family Oriolidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Maroon Oriole",
+  "scientific": "Oriolus traillii",
+  "order": "PASSERIFORMES",
+  "family": "Oriolidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Maroon Oriole (Oriolus traillii), order PASSERIFORMES, family Oriolidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Green Shrike-babbler",
+  "scientific": "Pteruthius xanthochlorus",
+  "order": "PASSERIFORMES",
+  "family": "Vireonidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Green Shrike-babbler (Pteruthius xanthochlorus), order PASSERIFORMES, family Vireonidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "White-bellied Erpornis",
+  "scientific": "Erpornis zantholeuca",
+  "order": "PASSERIFORMES",
+  "family": "Vireonidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "White-bellied Erpornis (Erpornis zantholeuca), order PASSERIFORMES, family Vireonidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "White-browed Shrike- babbler",
+  "scientific": "Pteruthius aeralatus",
+  "order": "PASSERIFORMES",
+  "family": "Vireonidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "White-browed Shrike- babbler (Pteruthius aeralatus), order PASSERIFORMES, family Vireonidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Grey-chinned Minivet",
+  "scientific": "Pericrocotus solaris",
+  "order": "PASSERIFORMES",
+  "family": "Campephagidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Grey-chinned Minivet (Pericrocotus solaris), order PASSERIFORMES, family Campephagidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Long-tailed Minivet",
+  "scientific": "Pericrocotus ethologus",
+  "order": "PASSERIFORMES",
+  "family": "Campephagidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Long-tailed Minivet (Pericrocotus ethologus), order PASSERIFORMES, family Campephagidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Scarlet Minivet",
+  "scientific": "Pericrocotus flammeus",
+  "order": "PASSERIFORMES",
+  "family": "Campephagidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Scarlet Minivet (Pericrocotus flammeus), order PASSERIFORMES, family Campephagidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Short-billed Minivet",
+  "scientific": "Pericrocotus brevirostris",
+  "order": "PASSERIFORMES",
+  "family": "Campephagidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Short-billed Minivet (Pericrocotus brevirostris), order PASSERIFORMES, family Campephagidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Indian Cuckooshrike",
+  "scientific": "Coracina macei",
+  "order": "PASSERIFORMES",
+  "family": "Campephagidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Indian Cuckooshrike (Coracina macei), order PASSERIFORMES, family Campephagidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Black-winged Cuckooshrike",
+  "scientific": "Lalage melaschistos",
+  "order": "PASSERIFORMES",
+  "family": "Campephagidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Black-winged Cuckooshrike (Lalage melaschistos), order PASSERIFORMES, family Campephagidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Bar-winged Flycatcher-shrike",
+  "scientific": "Hemipus picatus",
+  "order": "PASSERIFORMES",
+  "family": "Vangidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Bar-winged Flycatcher-shrike (Hemipus picatus), order PASSERIFORMES, family Vangidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "White-throated Fantail",
+  "scientific": "Rhipidura albicollis",
+  "order": "PASSERIFORMES",
+  "family": "Rhipiduridae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "White-throated Fantail (Rhipidura albicollis), order PASSERIFORMES, family Rhipiduridae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Ashy Drongo",
+  "scientific": "Dicrurus leucophaeus",
+  "order": "PASSERIFORMES",
+  "family": "Dicruridae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Ashy Drongo (Dicrurus leucophaeus), order PASSERIFORMES, family Dicruridae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Black Drongo",
+  "scientific": "Dicrurus macrocercus",
+  "order": "PASSERIFORMES",
+  "family": "Dicruridae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Black Drongo (Dicrurus macrocercus), order PASSERIFORMES, family Dicruridae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Bronzed Drongo",
+  "scientific": "Dicrurus aeneus",
+  "order": "PASSERIFORMES",
+  "family": "Dicruridae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Bronzed Drongo (Dicrurus aeneus), order PASSERIFORMES, family Dicruridae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "White-bellied Drongo",
+  "scientific": "Dicrurus caerulescens",
+  "order": "PASSERIFORMES",
+  "family": "Dicruridae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "White-bellied Drongo (Dicrurus caerulescens), order PASSERIFORMES, family Dicruridae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Hair-crested Drongo",
+  "scientific": "Dicrurus hottentottus",
+  "order": "PASSERIFORMES",
+  "family": "Dicruridae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Hair-crested Drongo (Dicrurus hottentottus), order PASSERIFORMES, family Dicruridae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Greater Racquet- tailed Drongo",
+  "scientific": "Dicrurus paradiseus",
+  "order": "PASSERIFORMES",
+  "family": "Dicruridae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Greater Racquet- tailed Drongo (Dicrurus paradiseus), order PASSERIFORMES, family Dicruridae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Lesser Racquet-tailed Drongo",
+  "scientific": "Dicrurus remifer",
+  "order": "PASSERIFORMES",
+  "family": "Dicruridae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Lesser Racquet-tailed Drongo (Dicrurus remifer), order PASSERIFORMES, family Dicruridae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Indian Paradise- flycatcher",
+  "scientific": "Terpsiphone paradisi",
+  "order": "PASSERIFORMES",
+  "family": "Monarchidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Indian Paradise- flycatcher (Terpsiphone paradisi), order PASSERIFORMES, family Monarchidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Brown Shrike",
+  "scientific": "Lanius cristatus",
+  "order": "PASSERIFORMES",
+  "family": "Laniidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Brown Shrike (Lanius cristatus), order PASSERIFORMES, family Laniidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Grey-backed Shrike",
+  "scientific": "Lanius tephronotus",
+  "order": "PASSERIFORMES",
+  "family": "Laniidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Grey-backed Shrike (Lanius tephronotus), order PASSERIFORMES, family Laniidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Long-tailed Shrike",
+  "scientific": "Lanius schach",
+  "order": "PASSERIFORMES",
+  "family": "Laniidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Long-tailed Shrike (Lanius schach), order PASSERIFORMES, family Laniidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Grey Treepie",
+  "scientific": "Dendrocitta formosae",
+  "order": "PASSERIFORMES",
+  "family": "Corvidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Grey Treepie (Dendrocitta formosae), order PASSERIFORMES, family Corvidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Rufous Treepie",
+  "scientific": "Dendrocitta vagabunda",
+  "order": "PASSERIFORMES",
+  "family": "Corvidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Rufous Treepie (Dendrocitta vagabunda), order PASSERIFORMES, family Corvidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Black-headed Jay",
+  "scientific": "Garrulus lanceolatus",
+  "order": "PASSERIFORMES",
+  "family": "Corvidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Black-headed Jay (Garrulus lanceolatus), order PASSERIFORMES, family Corvidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Plain-crowned Jay",
+  "scientific": "Garrulus bispecularis",
+  "order": "PASSERIFORMES",
+  "family": "Corvidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Plain-crowned Jay (Garrulus bispecularis), order PASSERIFORMES, family Corvidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Common Green Magpie",
+  "scientific": "Cissa chinensis",
+  "order": "PASSERIFORMES",
+  "family": "Corvidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Common Green Magpie (Cissa chinensis), order PASSERIFORMES, family Corvidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Red-billed Blue Magpie",
+  "scientific": "Urocissa erythroryncha",
+  "order": "PASSERIFORMES",
+  "family": "Corvidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Red-billed Blue Magpie (Urocissa erythroryncha), order PASSERIFORMES, family Corvidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Yellow-billed Blue Magpie",
+  "scientific": "Urocissa flavirostris",
+  "order": "PASSERIFORMES",
+  "family": "Corvidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Yellow-billed Blue Magpie (Urocissa flavirostris), order PASSERIFORMES, family Corvidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Common Raven",
+  "scientific": "Corvus corax",
+  "order": "PASSERIFORMES",
+  "family": "Corvidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Common Raven (Corvus corax), order PASSERIFORMES, family Corvidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "House Crow",
+  "scientific": "Corvus splendens",
+  "order": "PASSERIFORMES",
+  "family": "Corvidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "House Crow (Corvus splendens), order PASSERIFORMES, family Corvidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Large-billed Crow",
+  "scientific": "Corvus macrorhynchos",
+  "order": "PASSERIFORMES",
+  "family": "Corvidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Large-billed Crow (Corvus macrorhynchos), order PASSERIFORMES, family Corvidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Grey-headed Canary- flycatcher",
+  "scientific": "Culicicapa ceylonensis",
+  "order": "PASSERIFORMES",
+  "family": "Stenostiridae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Grey-headed Canary- flycatcher (Culicicapa ceylonensis), order PASSERIFORMES, family Stenostiridae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Yellow-bellied Fairy- fantail",
+  "scientific": "Chelidorhynx hypoxanthus",
+  "order": "PASSERIFORMES",
+  "family": "Stenostiridae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Yellow-bellied Fairy- fantail (Chelidorhynx hypoxanthus), order PASSERIFORMES, family Stenostiridae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Black-lored Tit",
+  "scientific": "Machlolophus xanthogenys",
+  "order": "PASSERIFORMES",
+  "family": "Paridae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Black-lored Tit (Machlolophus xanthogenys), order PASSERIFORMES, family Paridae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Great Tit",
+  "scientific": "Parus major",
+  "order": "PASSERIFORMES",
+  "family": "Paridae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Great Tit (Parus major), order PASSERIFORMES, family Paridae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Green-backed Tit",
+  "scientific": "Parus monticolus",
+  "order": "PASSERIFORMES",
+  "family": "Paridae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Green-backed Tit (Parus monticolus), order PASSERIFORMES, family Paridae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Grey-crested Tit",
+  "scientific": "Lophophanes dichrous",
+  "order": "PASSERIFORMES",
+  "family": "Paridae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Grey-crested Tit (Lophophanes dichrous), order PASSERIFORMES, family Paridae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Yellow-browed Tit",
+  "scientific": "Sylviparus modestus",
+  "order": "PASSERIFORMES",
+  "family": "Paridae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Yellow-browed Tit (Sylviparus modestus), order PASSERIFORMES, family Paridae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Oriental Skylark",
+  "scientific": "Alauda gulgula",
+  "order": "PASSERIFORMES",
+  "family": "Alaudidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Oriental Skylark (Alauda gulgula), order PASSERIFORMES, family Alaudidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Grey-breasted Prinia",
+  "scientific": "Prinia hodgsonii",
+  "order": "PASSERIFORMES",
+  "family": "Cisticolidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Grey-breasted Prinia (Prinia hodgsonii), order PASSERIFORMES, family Cisticolidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Striated Prinia",
+  "scientific": "Prinia crinigera",
+  "order": "PASSERIFORMES",
+  "family": "Cisticolidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Striated Prinia (Prinia crinigera), order PASSERIFORMES, family Cisticolidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Common Tailorbird",
+  "scientific": "Orthotomus sutorius",
+  "order": "PASSERIFORMES",
+  "family": "Cisticolidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Common Tailorbird (Orthotomus sutorius), order PASSERIFORMES, family Cisticolidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Blyth’s Reed-warbler",
+  "scientific": "Acrocephalus dumetorum",
+  "order": "PASSERIFORMES",
+  "family": "Acrocephalidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Blyth’s Reed-warbler (Acrocephalus dumetorum), order PASSERIFORMES, family Acrocephalidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Nepal Cupwing",
+  "scientific": "Pnoepyga immaculata",
+  "order": "PASSERIFORMES",
+  "family": "Pnoepygidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Nepal Cupwing (Pnoepyga immaculata), order PASSERIFORMES, family Pnoepygidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Pygmy Cupwing",
+  "scientific": "Pnoepyga pusilla",
+  "order": "PASSERIFORMES",
+  "family": "Pnoepygidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Pygmy Cupwing (Pnoepyga pusilla), order PASSERIFORMES, family Pnoepygidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Scaly-breasted Cupwing",
+  "scientific": "Pnoepyga albiventer",
+  "order": "PASSERIFORMES",
+  "family": "Pnoepygidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Scaly-breasted Cupwing (Pnoepyga albiventer), order PASSERIFORMES, family Pnoepygidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Asian House Martin",
+  "scientific": "Delichon dasypus",
+  "order": "PASSERIFORMES",
+  "family": "Hirundinidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Asian House Martin (Delichon dasypus), order PASSERIFORMES, family Hirundinidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Nepal House Martin",
+  "scientific": "Delichon nipalense",
+  "order": "PASSERIFORMES",
+  "family": "Hirundinidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Nepal House Martin (Delichon nipalense), order PASSERIFORMES, family Hirundinidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Asian Plain Martin",
+  "scientific": "Riparia chinensis",
+  "order": "PASSERIFORMES",
+  "family": "Hirundinidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Asian Plain Martin (Riparia chinensis), order PASSERIFORMES, family Hirundinidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Barn Swallow",
+  "scientific": "Hirundo rustica",
+  "order": "PASSERIFORMES",
+  "family": "Hirundinidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Barn Swallow (Hirundo rustica), order PASSERIFORMES, family Hirundinidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Red-rumped Swallow",
+  "scientific": "Cecropis daurica",
+  "order": "PASSERIFORMES",
+  "family": "Hirundinidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Red-rumped Swallow (Cecropis daurica), order PASSERIFORMES, family Hirundinidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Eurasian Crag Martin",
+  "scientific": "Ptyonoprogne rupestris",
+  "order": "PASSERIFORMES",
+  "family": "Hirundinidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Eurasian Crag Martin (Ptyonoprogne rupestris), order PASSERIFORMES, family Hirundinidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Black Bulbul",
+  "scientific": "Hypsipetes leucocephalus",
+  "order": "PASSERIFORMES",
+  "family": "Pycnonotidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Black Bulbul (Hypsipetes leucocephalus), order PASSERIFORMES, family Pycnonotidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Black-crested Bulbul",
+  "scientific": "Rubigula flaviventris",
+  "order": "PASSERIFORMES",
+  "family": "Pycnonotidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Black-crested Bulbul (Rubigula flaviventris), order PASSERIFORMES, family Pycnonotidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Himalayan Bulbul",
+  "scientific": "Pycnonotus leucogenys",
+  "order": "PASSERIFORMES",
+  "family": "Pycnonotidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Himalayan Bulbul (Pycnonotus leucogenys), order PASSERIFORMES, family Pycnonotidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Mountain Bulbul",
+  "scientific": "Ixos mcclellandii",
+  "order": "PASSERIFORMES",
+  "family": "Pycnonotidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Mountain Bulbul (Ixos mcclellandii), order PASSERIFORMES, family Pycnonotidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Red-vented Bulbul",
+  "scientific": "Pycnonotus cafer",
+  "order": "PASSERIFORMES",
+  "family": "Pycnonotidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Red-vented Bulbul (Pycnonotus cafer), order PASSERIFORMES, family Pycnonotidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Striated Bulbul",
+  "scientific": "Alcurus striatus",
+  "order": "PASSERIFORMES",
+  "family": "Pycnonotidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Striated Bulbul (Alcurus striatus), order PASSERIFORMES, family Pycnonotidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Ashy-throated Warbler",
+  "scientific": "Phylloscopus maculipennis",
+  "order": "PASSERIFORMES",
+  "family": "Phylloscopidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Ashy-throated Warbler (Phylloscopus maculipennis), order PASSERIFORMES, family Phylloscopidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Buff -barred Warbler",
+  "scientific": "Phylloscopus pulcher",
+  "order": "PASSERIFORMES",
+  "family": "Phylloscopidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Buff -barred Warbler (Phylloscopus pulcher), order PASSERIFORMES, family Phylloscopidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Chestnut-crowned Warbler",
+  "scientific": "Phylloscopus castaniceps",
+  "order": "PASSERIFORMES",
+  "family": "Phylloscopidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Chestnut-crowned Warbler (Phylloscopus castaniceps), order PASSERIFORMES, family Phylloscopidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Dusky Warbler",
+  "scientific": "Phylloscopus fuscatus",
+  "order": "PASSERIFORMES",
+  "family": "Phylloscopidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Dusky Warbler (Phylloscopus fuscatus), order PASSERIFORMES, family Phylloscopidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Western Crowned Leaf-warbler",
+  "scientific": "Phylloscopus occipitalis",
+  "order": "PASSERIFORMES",
+  "family": "Phylloscopidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Western Crowned Leaf-warbler (Phylloscopus occipitalis), order PASSERIFORMES, family Phylloscopidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Green-crowned Warbler",
+  "scientific": "Phylloscopus burkii",
+  "order": "PASSERIFORMES",
+  "family": "Phylloscopidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Green-crowned Warbler (Phylloscopus burkii), order PASSERIFORMES, family Phylloscopidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Greenish Warbler",
+  "scientific": "Phylloscopus trochiloides",
+  "order": "PASSERIFORMES",
+  "family": "Phylloscopidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Greenish Warbler (Phylloscopus trochiloides), order PASSERIFORMES, family Phylloscopidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Grey-hooded Warbler",
+  "scientific": "Phylloscopus xanthoschistos",
+  "order": "PASSERIFORMES",
+  "family": "Phylloscopidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Grey-hooded Warbler (Phylloscopus xanthoschistos), order PASSERIFORMES, family Phylloscopidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Sulphur-bellied Warbler",
+  "scientific": "Phylloscopus griseolus",
+  "order": "PASSERIFORMES",
+  "family": "Phylloscopidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Sulphur-bellied Warbler (Phylloscopus griseolus), order PASSERIFORMES, family Phylloscopidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Whistler’s Warbler",
+  "scientific": "Phylloscopus whistleri",
+  "order": "PASSERIFORMES",
+  "family": "Phylloscopidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Whistler’s Warbler (Phylloscopus whistleri), order PASSERIFORMES, family Phylloscopidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Yellow-browed Warbler",
+  "scientific": "Phylloscopus inornatus",
+  "order": "PASSERIFORMES",
+  "family": "Phylloscopidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Yellow-browed Warbler (Phylloscopus inornatus), order PASSERIFORMES, family Phylloscopidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Blyth’s Leaf-warbler",
+  "scientific": "Phylloscopus reguloides",
+  "order": "PASSERIFORMES",
+  "family": "Phylloscopidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Blyth’s Leaf-warbler (Phylloscopus reguloides), order PASSERIFORMES, family Phylloscopidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Hume’s Leaf-warbler",
+  "scientific": "Phylloscopus humei",
+  "order": "PASSERIFORMES",
+  "family": "Phylloscopidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Hume’s Leaf-warbler (Phylloscopus humei), order PASSERIFORMES, family Phylloscopidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Lemon-rumped Leaf- warbler",
+  "scientific": "Phylloscopus chloronotus",
+  "order": "PASSERIFORMES",
+  "family": "Phylloscopidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Lemon-rumped Leaf- warbler (Phylloscopus chloronotus), order PASSERIFORMES, family Phylloscopidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Tickell’s Leaf-warbler",
+  "scientific": "Phylloscopus affinis",
+  "order": "PASSERIFORMES",
+  "family": "Phylloscopidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Tickell’s Leaf-warbler (Phylloscopus affinis), order PASSERIFORMES, family Phylloscopidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Siberian Chiffchaff",
+  "scientific": "Phylloscopus tristis",
+  "order": "PASSERIFORMES",
+  "family": "Phylloscopidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Siberian Chiffchaff (Phylloscopus tristis), order PASSERIFORMES, family Phylloscopidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Chestnut-headed Tesia",
+  "scientific": "Cettia castaneocoronata",
+  "order": "PASSERIFORMES",
+  "family": "Scotocercidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Chestnut-headed Tesia (Cettia castaneocoronata), order PASSERIFORMES, family Scotocercidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Grey-bellied Tesia",
+  "scientific": "Tesia cyaniventer",
+  "order": "PASSERIFORMES",
+  "family": "Scotocercidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Grey-bellied Tesia (Tesia cyaniventer), order PASSERIFORMES, family Scotocercidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Aberrant Bush- warbler",
+  "scientific": "Horornis flavolivaceus",
+  "order": "PASSERIFORMES",
+  "family": "Scotocercidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Aberrant Bush- warbler (Horornis flavolivaceus), order PASSERIFORMES, family Scotocercidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Brownish-flanked Bush-warbler",
+  "scientific": "Horornis fortipes",
+  "order": "PASSERIFORMES",
+  "family": "Scotocercidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Brownish-flanked Bush-warbler (Horornis fortipes), order PASSERIFORMES, family Scotocercidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Chestnut-crowned Bush-warbler",
+  "scientific": "Cettia major",
+  "order": "PASSERIFORMES",
+  "family": "Scotocercidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Chestnut-crowned Bush-warbler (Cettia major), order PASSERIFORMES, family Scotocercidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Grey-sided Bush- warbler",
+  "scientific": "Cettia brunnifrons",
+  "order": "PASSERIFORMES",
+  "family": "Scotocercidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Grey-sided Bush- warbler (Cettia brunnifrons), order PASSERIFORMES, family Scotocercidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Hume’s Bush-warbler",
+  "scientific": "Horornis brunnescens",
+  "order": "PASSERIFORMES",
+  "family": "Scotocercidae",
+  "gts": "",
+  "nts": "VU",
+  "cites": "",
+  "text": "Hume’s Bush-warbler (Horornis brunnescens), order PASSERIFORMES, family Scotocercidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: VU. CITES: not listed."
+ },
+ {
+  "common": "Black-faced Warbler",
+  "scientific": "Abroscopus schisticeps",
+  "order": "PASSERIFORMES",
+  "family": "Scotocercidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Black-faced Warbler (Abroscopus schisticeps), order PASSERIFORMES, family Scotocercidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Red-headed Tit",
+  "scientific": "Aegithalos iredalei",
+  "order": "PASSERIFORMES",
+  "family": "Aegithalidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Red-headed Tit (Aegithalos iredalei), order PASSERIFORMES, family Aegithalidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Lesser Whitethroat",
+  "scientific": "Curruca curruca",
+  "order": "PASSERIFORMES",
+  "family": "Sylviidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Lesser Whitethroat (Curruca curruca), order PASSERIFORMES, family Sylviidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "White-browed Fulvetta",
+  "scientific": "Fulvetta vinipectus",
+  "order": "PASSERIFORMES",
+  "family": "Sylviidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "White-browed Fulvetta (Fulvetta vinipectus), order PASSERIFORMES, family Sylviidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Black-chinned Yuhina",
+  "scientific": "Yuhina nigrimenta",
+  "order": "PASSERIFORMES",
+  "family": "Zosteropidae",
+  "gts": "",
+  "nts": "VU",
+  "cites": "",
+  "text": "Black-chinned Yuhina (Yuhina nigrimenta), order PASSERIFORMES, family Zosteropidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: VU. CITES: not listed."
+ },
+ {
+  "common": "Stripe-throated Yuhina",
+  "scientific": "Yuhina gularis",
+  "order": "PASSERIFORMES",
+  "family": "Zosteropidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Stripe-throated Yuhina (Yuhina gularis), order PASSERIFORMES, family Zosteropidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Whiskered Yuhina",
+  "scientific": "Yuhina flavicollis",
+  "order": "PASSERIFORMES",
+  "family": "Zosteropidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Whiskered Yuhina (Yuhina flavicollis), order PASSERIFORMES, family Zosteropidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Indian White-eye",
+  "scientific": "Zosterops palpebrosus",
+  "order": "PASSERIFORMES",
+  "family": "Zosteropidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Indian White-eye (Zosterops palpebrosus), order PASSERIFORMES, family Zosteropidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Black-chinned Babbler",
+  "scientific": "Cyanoderma pyrrhops",
+  "order": "PASSERIFORMES",
+  "family": "Timaliidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Black-chinned Babbler (Cyanoderma pyrrhops), order PASSERIFORMES, family Timaliidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Grey-throated Babbler",
+  "scientific": "Stachyris nigriceps",
+  "order": "PASSERIFORMES",
+  "family": "Timaliidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Grey-throated Babbler (Stachyris nigriceps), order PASSERIFORMES, family Timaliidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Rusty-cheeked Scimitar-babbler",
+  "scientific": "Erythrogenys erythrogenys",
+  "order": "PASSERIFORMES",
+  "family": "Timaliidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Rusty-cheeked Scimitar-babbler (Erythrogenys erythrogenys), order PASSERIFORMES, family Timaliidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Streak-breasted Scimitar-babbler",
+  "scientific": "Pomatorhinus ruficollis",
+  "order": "PASSERIFORMES",
+  "family": "Timaliidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Streak-breasted Scimitar-babbler (Pomatorhinus ruficollis), order PASSERIFORMES, family Timaliidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Puff -throated Babbler",
+  "scientific": "Pellorneum ruficeps",
+  "order": "PASSERIFORMES",
+  "family": "Pellorneidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Puff -throated Babbler (Pellorneum ruficeps), order PASSERIFORMES, family Pellorneidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Rufous-winged Fulvetta",
+  "scientific": "Schoeniparus castaneceps",
+  "order": "PASSERIFORMES",
+  "family": "Pellorneidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Rufous-winged Fulvetta (Schoeniparus castaneceps), order PASSERIFORMES, family Pellorneidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Nepal Fulvetta",
+  "scientific": "Alcippe nipalensis",
+  "order": "PASSERIFORMES",
+  "family": "Alcippeidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Nepal Fulvetta (Alcippe nipalensis), order PASSERIFORMES, family Alcippeidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Blue-winged Minla",
+  "scientific": "Siva cyanouroptera",
+  "order": "PASSERIFORMES",
+  "family": "Leiotrichidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Blue-winged Minla (Siva cyanouroptera), order PASSERIFORMES, family Leiotrichidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Bar-throated Minla",
+  "scientific": "Chrysominla strigula",
+  "order": "PASSERIFORMES",
+  "family": "Leiotrichidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Bar-throated Minla (Chrysominla strigula), order PASSERIFORMES, family Leiotrichidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Red-tailed Minla",
+  "scientific": "Minla ignotincta",
+  "order": "PASSERIFORMES",
+  "family": "Leiotrichidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Red-tailed Minla (Minla ignotincta), order PASSERIFORMES, family Leiotrichidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Hoary-throated Barwing",
+  "scientific": "Sibia nipalensis",
+  "order": "PASSERIFORMES",
+  "family": "Leiotrichidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Hoary-throated Barwing (Sibia nipalensis), order PASSERIFORMES, family Leiotrichidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Rufous Sibia",
+  "scientific": "Heterophasia capistrata",
+  "order": "PASSERIFORMES",
+  "family": "Leiotrichidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Rufous Sibia (Heterophasia capistrata), order PASSERIFORMES, family Leiotrichidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Red-billed Leiothrix",
+  "scientific": "Leiothrix lutea",
+  "order": "PASSERIFORMES",
+  "family": "Leiotrichidae",
+  "gts": "",
+  "nts": "",
+  "cites": "II",
+  "text": "Red-billed Leiothrix (Leiothrix lutea), order PASSERIFORMES, family Leiotrichidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: Appendix II."
+ },
+ {
+  "common": "Jungle Babbler",
+  "scientific": "Argya striata",
+  "order": "PASSERIFORMES",
+  "family": "Leiotrichidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Jungle Babbler (Argya striata), order PASSERIFORMES, family Leiotrichidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Spiny Babbler",
+  "scientific": "Acanthoptila nipalensis",
+  "order": "PASSERIFORMES",
+  "family": "Leiotrichidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Spiny Babbler (Acanthoptila nipalensis), order PASSERIFORMES, family Leiotrichidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Chestnut-crowned Laughingthrush",
+  "scientific": "Trochalopteron erythrocephalum",
+  "order": "PASSERIFORMES",
+  "family": "Leiotrichidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Chestnut-crowned Laughingthrush (Trochalopteron erythrocephalum), order PASSERIFORMES, family Leiotrichidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Rufous-chinned Laughingthrush",
+  "scientific": "Ianthocincla rufogularis",
+  "order": "PASSERIFORMES",
+  "family": "Leiotrichidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Rufous-chinned Laughingthrush (Ianthocincla rufogularis), order PASSERIFORMES, family Leiotrichidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Spotted Laughingthrush",
+  "scientific": "Ianthocincla ocellata",
+  "order": "PASSERIFORMES",
+  "family": "Leiotrichidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Spotted Laughingthrush (Ianthocincla ocellata), order PASSERIFORMES, family Leiotrichidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Streaked Laughingthrush",
+  "scientific": "Trochalopteron lineatum",
+  "order": "PASSERIFORMES",
+  "family": "Leiotrichidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Streaked Laughingthrush (Trochalopteron lineatum), order PASSERIFORMES, family Leiotrichidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Striated Laughingthrush",
+  "scientific": "Grammatoptila striata",
+  "order": "PASSERIFORMES",
+  "family": "Leiotrichidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Striated Laughingthrush (Grammatoptila striata), order PASSERIFORMES, family Leiotrichidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Variegated Laughingthrush",
+  "scientific": "Trochalopteron variegatum",
+  "order": "PASSERIFORMES",
+  "family": "Leiotrichidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Variegated Laughingthrush (Trochalopteron variegatum), order PASSERIFORMES, family Leiotrichidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "White-crested Laughingthrush",
+  "scientific": "Garrulax leucolophus",
+  "order": "PASSERIFORMES",
+  "family": "Leiotrichidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "White-crested Laughingthrush (Garrulax leucolophus), order PASSERIFORMES, family Leiotrichidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "White-throated Laughingthrush",
+  "scientific": "Pterorhinus albogularis",
+  "order": "PASSERIFORMES",
+  "family": "Leiotrichidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "White-throated Laughingthrush (Pterorhinus albogularis), order PASSERIFORMES, family Leiotrichidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Bar-tailed Treecreeper",
+  "scientific": "Certhia himalayana",
+  "order": "PASSERIFORMES",
+  "family": "Certhiidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Bar-tailed Treecreeper (Certhia himalayana), order PASSERIFORMES, family Certhiidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Hodgson’s Treecreeper",
+  "scientific": "Certhia hodgsoni",
+  "order": "PASSERIFORMES",
+  "family": "Certhiidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Hodgson’s Treecreeper (Certhia hodgsoni), order PASSERIFORMES, family Certhiidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Rusty-flanked Treecreeper",
+  "scientific": "Certhia nipalensis",
+  "order": "PASSERIFORMES",
+  "family": "Certhiidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Rusty-flanked Treecreeper (Certhia nipalensis), order PASSERIFORMES, family Certhiidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Sikkim Treecreeper",
+  "scientific": "Certhia discolor",
+  "order": "PASSERIFORMES",
+  "family": "Certhiidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Sikkim Treecreeper (Certhia discolor), order PASSERIFORMES, family Certhiidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Chestnut-bellied Nuthatch",
+  "scientific": "Sitta cinnamoventris",
+  "order": "PASSERIFORMES",
+  "family": "Sittidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Chestnut-bellied Nuthatch (Sitta cinnamoventris), order PASSERIFORMES, family Sittidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Kashmir Nuthatch",
+  "scientific": "Sitta cashmirensis",
+  "order": "PASSERIFORMES",
+  "family": "Sittidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Kashmir Nuthatch (Sitta cashmirensis), order PASSERIFORMES, family Sittidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Velvet-fronted Nuthatch",
+  "scientific": "Sitta frontalis",
+  "order": "PASSERIFORMES",
+  "family": "Sittidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Velvet-fronted Nuthatch (Sitta frontalis), order PASSERIFORMES, family Sittidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "White-tailed Nuthatch",
+  "scientific": "Sitta himalayensis",
+  "order": "PASSERIFORMES",
+  "family": "Sittidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "White-tailed Nuthatch (Sitta himalayensis), order PASSERIFORMES, family Sittidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Wallcreeper",
+  "scientific": "Tichodroma muraria",
+  "order": "PASSERIFORMES",
+  "family": "Sittidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Wallcreeper (Tichodroma muraria), order PASSERIFORMES, family Sittidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Brown Dipper",
+  "scientific": "Cinclus pallasii",
+  "order": "PASSERIFORMES",
+  "family": "Cinclidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Brown Dipper (Cinclus pallasii), order PASSERIFORMES, family Cinclidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Chestnut-tailed Starling",
+  "scientific": "Sturnia malabarica",
+  "order": "PASSERIFORMES",
+  "family": "Sturnidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Chestnut-tailed Starling (Sturnia malabarica), order PASSERIFORMES, family Sturnidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Common Myna",
+  "scientific": "Acridotheres tristis",
+  "order": "PASSERIFORMES",
+  "family": "Sturnidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Common Myna (Acridotheres tristis), order PASSERIFORMES, family Sturnidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Jungle Myna",
+  "scientific": "Acridotheres fuscus",
+  "order": "PASSERIFORMES",
+  "family": "Sturnidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Jungle Myna (Acridotheres fuscus), order PASSERIFORMES, family Sturnidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Black-throated Thrush",
+  "scientific": "Turdus atrogularis",
+  "order": "PASSERIFORMES",
+  "family": "Turdidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Black-throated Thrush (Turdus atrogularis), order PASSERIFORMES, family Turdidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Chestnut Thrush",
+  "scientific": "Turdus rubrocanus",
+  "order": "PASSERIFORMES",
+  "family": "Turdidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Chestnut Thrush (Turdus rubrocanus), order PASSERIFORMES, family Turdidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Dark-sided Thrush",
+  "scientific": "Zoothera marginata",
+  "order": "PASSERIFORMES",
+  "family": "Turdidae",
+  "gts": "",
+  "nts": "VU",
+  "cites": "",
+  "text": "Dark-sided Thrush (Zoothera marginata), order PASSERIFORMES, family Turdidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: VU. CITES: not listed."
+ },
+ {
+  "common": "Long-billed Thrush",
+  "scientific": "Zoothera monticola",
+  "order": "PASSERIFORMES",
+  "family": "Turdidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Long-billed Thrush (Zoothera monticola), order PASSERIFORMES, family Turdidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Long-tailed Thrush",
+  "scientific": "Zoothera dixoni",
+  "order": "PASSERIFORMES",
+  "family": "Turdidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Long-tailed Thrush (Zoothera dixoni), order PASSERIFORMES, family Turdidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Pied Thrush",
+  "scientific": "Geokichla wardii",
+  "order": "PASSERIFORMES",
+  "family": "Turdidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Pied Thrush (Geokichla wardii), order PASSERIFORMES, family Turdidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Scaly Thrush",
+  "scientific": "Zoothera dauma",
+  "order": "PASSERIFORMES",
+  "family": "Turdidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Scaly Thrush (Zoothera dauma), order PASSERIFORMES, family Turdidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Tickell’s Thrush",
+  "scientific": "Turdus unicolor",
+  "order": "PASSERIFORMES",
+  "family": "Turdidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Tickell’s Thrush (Turdus unicolor), order PASSERIFORMES, family Turdidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Grey-winged Blackbird",
+  "scientific": "Turdus boulboul",
+  "order": "PASSERIFORMES",
+  "family": "Turdidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Grey-winged Blackbird (Turdus boulboul), order PASSERIFORMES, family Turdidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "White-collared Blackbird",
+  "scientific": "Turdus albocinctus",
+  "order": "PASSERIFORMES",
+  "family": "Turdidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "White-collared Blackbird (Turdus albocinctus), order PASSERIFORMES, family Turdidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Asian Brown Flycatcher",
+  "scientific": "Muscicapa dauurica",
+  "order": "PASSERIFORMES",
+  "family": "Muscicapidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Asian Brown Flycatcher (Muscicapa dauurica), order PASSERIFORMES, family Muscicapidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Blue-throated Blue Flycatcher",
+  "scientific": "Cyornis rubeculoides",
+  "order": "PASSERIFORMES",
+  "family": "Muscicapidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Blue-throated Blue Flycatcher (Cyornis rubeculoides), order PASSERIFORMES, family Muscicapidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Dark-sided Flycatcher",
+  "scientific": "Muscicapa sibirica",
+  "order": "PASSERIFORMES",
+  "family": "Muscicapidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Dark-sided Flycatcher (Muscicapa sibirica), order PASSERIFORMES, family Muscicapidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Little Pied Flycatcher",
+  "scientific": "Ficedula westermanni",
+  "order": "PASSERIFORMES",
+  "family": "Muscicapidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Little Pied Flycatcher (Ficedula westermanni), order PASSERIFORMES, family Muscicapidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Ficedula albicilla",
+  "scientific": "nfns07² ch'{gs",
+  "order": "PASSERIFORMES",
+  "family": "Muscicapidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Ficedula albicilla (nfns07² ch'{gs), order PASSERIFORMES, family Muscicapidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Ficedula strophiata",
+  "scientific": ";²tf²l6s² ch'{gs",
+  "order": "PASSERIFORMES",
+  "family": "Muscicapidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Ficedula strophiata (;²tf²l6s² ch'{gs), order PASSERIFORMES, family Muscicapidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Ficedula tricolor",
+  "scientific": "l6sl6s² ch'{gs",
+  "order": "PASSERIFORMES",
+  "family": "Muscicapidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Ficedula tricolor (l6sl6s² ch'{gs), order PASSERIFORMES, family Muscicapidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Ficedula hyperythra",
+  "scientific": ";²tf²cf“vLefÄ ch'{gs",
+  "order": "PASSERIFORMES",
+  "family": "Muscicapidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Ficedula hyperythra (;²tf²cf“vLefÄ ch'{gs), order PASSERIFORMES, family Muscicapidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Ficedula superciliaris",
+  "scientific": "gLnZj²t ch'{gs",
+  "order": "PASSERIFORMES",
+  "family": "Muscicapidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Ficedula superciliaris (gLnZj²t ch'{gs), order PASSERIFORMES, family Muscicapidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Eumyias thalassinus",
+  "scientific": "gLnt'yf² ch'{gs",
+  "order": "PASSERIFORMES",
+  "family": "Muscicapidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Eumyias thalassinus (gLnt'yf² ch'{gs), order PASSERIFORMES, family Muscicapidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Monticola solitarius",
+  "scientific": "pdf rf“r¦",
+  "order": "PASSERIFORMES",
+  "family": "Muscicapidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Monticola solitarius (pdf rf“r¦), order PASSERIFORMES, family Muscicapidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Monticola cinclorhyncha",
+  "scientific": ";fgf² xhf¦f rf“r¦",
+  "order": "PASSERIFORMES",
+  "family": "Muscicapidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Monticola cinclorhyncha (;fgf² xhf¦f rf“r¦), order PASSERIFORMES, family Muscicapidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Monticola rufiventris",
+  "scientific": "xhf¦f rf“r¦",
+  "order": "PASSERIFORMES",
+  "family": "Muscicapidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Monticola rufiventris (xhf¦f rf“r¦), order PASSERIFORMES, family Muscicapidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Calliope pectoralis",
+  "scientific": "lxdfnL ¦ftf²s07",
+  "order": "PASSERIFORMES",
+  "family": "Muscicapidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Calliope pectoralis (lxdfnL ¦ftf²s07), order PASSERIFORMES, family Muscicapidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Calliope calliope",
+  "scientific": ";fOa²l¦ofnL ¦ftf²s07",
+  "order": "PASSERIFORMES",
+  "family": "Muscicapidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Calliope calliope (;fOa²l¦ofnL ¦ftf²s07), order PASSERIFORMES, family Muscicapidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Oenanthe deserti",
+  "scientific": "sfnf²s07² e'O“¦lag",
+  "order": "PASSERIFORMES",
+  "family": "Muscicapidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Oenanthe deserti (sfnf²s07² e'O“¦lag), order PASSERIFORMES, family Muscicapidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Copsychus saularis",
+  "scientific": "wf²lagL r¦f",
+  "order": "PASSERIFORMES",
+  "family": "Muscicapidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Copsychus saularis (wf²lagL r¦f), order PASSERIFORMES, family Muscicapidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Tarsiger chrysaeus",
+  "scientific": ";'gf³nf² ¦lag",
+  "order": "PASSERIFORMES",
+  "family": "Muscicapidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Tarsiger chrysaeus (;'gf³nf² ¦lag), order PASSERIFORMES, family Muscicapidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Larvivora brunnea",
+  "scientific": "gLnf² ¦lag",
+  "order": "PASSERIFORMES",
+  "family": "Muscicapidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Larvivora brunnea (gLnf² ¦lag), order PASSERIFORMES, family Muscicapidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Myiomela leucura",
+  "scientific": ";²tf²k'R5«² ¦lag",
+  "order": "PASSERIFORMES",
+  "family": "Muscicapidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Myiomela leucura (;²tf²k'R5«² ¦lag), order PASSERIFORMES, family Muscicapidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Tarsiger rufilatus",
+  "scientific": ";'Gtnfsf²v² ¦lag",
+  "order": "PASSERIFORMES",
+  "family": "Muscicapidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Tarsiger rufilatus (;'Gtnfsf²v² ¦lag), order PASSERIFORMES, family Muscicapidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Tarsiger hyperythrus",
+  "scientific": "s³n²5ftL ¦lag",
+  "order": "PASSERIFORMES",
+  "family": "Muscicapidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Tarsiger hyperythrus (s³n²5ftL ¦lag), order PASSERIFORMES, family Muscicapidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Tarsiger indicus",
+  "scientific": ";²tf²cf“vLefÄ ¦lag",
+  "order": "PASSERIFORMES",
+  "family": "Muscicapidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Tarsiger indicus (;²tf²cf“vLefÄ ¦lag), order PASSERIFORMES, family Muscicapidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Saxicola torquatus",
+  "scientific": "´²s´²s ‰ofK;L",
+  "order": "PASSERIFORMES",
+  "family": "Muscicapidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Saxicola torquatus (´²s´²s ‰ofK;L), order PASSERIFORMES, family Muscicapidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Saxicola ferreus",
+  "scientific": "lxdfnL ‰ofK;L",
+  "order": "PASSERIFORMES",
+  "family": "Muscicapidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Saxicola ferreus (lxdfnL ‰ofK;L), order PASSERIFORMES, family Muscicapidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Saxicola caprata",
+  "scientific": "lrlar²{",
+  "order": "PASSERIFORMES",
+  "family": "Muscicapidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Saxicola caprata (lrlar²{), order PASSERIFORMES, family Muscicapidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Niltava sundara",
+  "scientific": ";'Gb¦ gLntef",
+  "order": "PASSERIFORMES",
+  "family": "Muscicapidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Niltava sundara (;'Gb¦ gLntef), order PASSERIFORMES, family Muscicapidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Niltava macgrigoriae",
+  "scientific": ";fgf² gLntef",
+  "order": "PASSERIFORMES",
+  "family": "Muscicapidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Niltava macgrigoriae (;fgf² gLntef), order PASSERIFORMES, family Muscicapidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Myophonus caeruleus",
+  "scientific": "sNrfÄ8²",
+  "order": "PASSERIFORMES",
+  "family": "Muscicapidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Myophonus caeruleus (sNrfÄ8²), order PASSERIFORMES, family Muscicapidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Phoenicurus ochruros",
+  "scientific": "WofKrL v~h¦L",
+  "order": "PASSERIFORMES",
+  "family": "Muscicapidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Phoenicurus ochruros (WofKrL v~h¦L), order PASSERIFORMES, family Muscicapidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Blue-capped Redstart",
+  "scientific": "Phoenicurus coeruleocephala",
+  "order": "PASSERIFORMES",
+  "family": "Muscicapidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Blue-capped Redstart (Phoenicurus coeruleocephala), order PASSERIFORMES, family Muscicapidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Blue-fronted Redstart",
+  "scientific": "Phoenicurus frontalis",
+  "order": "PASSERIFORMES",
+  "family": "Muscicapidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Blue-fronted Redstart (Phoenicurus frontalis), order PASSERIFORMES, family Muscicapidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Hodgson’s Redstart",
+  "scientific": "Phoenicurus hodgsoni",
+  "order": "PASSERIFORMES",
+  "family": "Muscicapidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Hodgson’s Redstart (Phoenicurus hodgsoni), order PASSERIFORMES, family Muscicapidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "White-bellied Redstart",
+  "scientific": "Luscinia phaenicuroides",
+  "order": "PASSERIFORMES",
+  "family": "Muscicapidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "White-bellied Redstart (Luscinia phaenicuroides), order PASSERIFORMES, family Muscicapidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Plumbeous Water- redstart",
+  "scientific": "Phoenicurus fuliginosus",
+  "order": "PASSERIFORMES",
+  "family": "Muscicapidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Plumbeous Water- redstart (Phoenicurus fuliginosus), order PASSERIFORMES, family Muscicapidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "White-capped Water- redstart",
+  "scientific": "Phoenicurus leucocephalus",
+  "order": "PASSERIFORMES",
+  "family": "Muscicapidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "White-capped Water- redstart (Phoenicurus leucocephalus), order PASSERIFORMES, family Muscicapidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Little Forktail",
+  "scientific": "Enicurus scouleri",
+  "order": "PASSERIFORMES",
+  "family": "Muscicapidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Little Forktail (Enicurus scouleri), order PASSERIFORMES, family Muscicapidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Black-backed Forktail",
+  "scientific": "Enicurus immaculatus",
+  "order": "PASSERIFORMES",
+  "family": "Muscicapidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Black-backed Forktail (Enicurus immaculatus), order PASSERIFORMES, family Muscicapidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Slaty-backed Forktail",
+  "scientific": "Enicurus schistaceus",
+  "order": "PASSERIFORMES",
+  "family": "Muscicapidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Slaty-backed Forktail (Enicurus schistaceus), order PASSERIFORMES, family Muscicapidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Spotted Forktail",
+  "scientific": "Enicurus maculatus",
+  "order": "PASSERIFORMES",
+  "family": "Muscicapidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Spotted Forktail (Enicurus maculatus), order PASSERIFORMES, family Muscicapidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Orange-bellied Leafbird",
+  "scientific": "Chloropsis hardwickii",
+  "order": "PASSERIFORMES",
+  "family": "Chloropseidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Orange-bellied Leafbird (Chloropsis hardwickii), order PASSERIFORMES, family Chloropseidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Fire-breasted Flowerpecker",
+  "scientific": "Dicaeum ignipectus",
+  "order": "PASSERIFORMES",
+  "family": "Dicaeidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Fire-breasted Flowerpecker (Dicaeum ignipectus), order PASSERIFORMES, family Dicaeidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Black-throated Sunbird",
+  "scientific": "Aethopyga saturata",
+  "order": "PASSERIFORMES",
+  "family": "Nectariniidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Black-throated Sunbird (Aethopyga saturata), order PASSERIFORMES, family Nectariniidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Crimson Sunbird",
+  "scientific": "Aethopyga siparaja",
+  "order": "PASSERIFORMES",
+  "family": "Nectariniidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Crimson Sunbird (Aethopyga siparaja), order PASSERIFORMES, family Nectariniidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Fire-tailed Sunbird",
+  "scientific": "Aethopyga ignicauda",
+  "order": "PASSERIFORMES",
+  "family": "Nectariniidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Fire-tailed Sunbird (Aethopyga ignicauda), order PASSERIFORMES, family Nectariniidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Gould’s Sunbird",
+  "scientific": "Aethopyga gouldiae",
+  "order": "PASSERIFORMES",
+  "family": "Nectariniidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Gould’s Sunbird (Aethopyga gouldiae), order PASSERIFORMES, family Nectariniidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Green-tailed Sunbird",
+  "scientific": "Aethopyga nipalensis",
+  "order": "PASSERIFORMES",
+  "family": "Nectariniidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Green-tailed Sunbird (Aethopyga nipalensis), order PASSERIFORMES, family Nectariniidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Purple Sunbird",
+  "scientific": "Cinnyris asiaticus",
+  "order": "PASSERIFORMES",
+  "family": "Nectariniidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Purple Sunbird (Cinnyris asiaticus), order PASSERIFORMES, family Nectariniidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Alpine Accentor",
+  "scientific": "Prunella collaris",
+  "order": "PASSERIFORMES",
+  "family": "Prunellidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Alpine Accentor (Prunella collaris), order PASSERIFORMES, family Prunellidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Altai Accentor",
+  "scientific": "Prunella himalayana",
+  "order": "PASSERIFORMES",
+  "family": "Prunellidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Altai Accentor (Prunella himalayana), order PASSERIFORMES, family Prunellidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Rufous-breasted Accentor",
+  "scientific": "Prunella strophiata",
+  "order": "PASSERIFORMES",
+  "family": "Prunellidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Rufous-breasted Accentor (Prunella strophiata), order PASSERIFORMES, family Prunellidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Scaly-breasted Munia",
+  "scientific": "Lonchura punctulata",
+  "order": "PASSERIFORMES",
+  "family": "Estrildidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Scaly-breasted Munia (Lonchura punctulata), order PASSERIFORMES, family Estrildidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "White-rumped Munia",
+  "scientific": "Lonchura striata",
+  "order": "PASSERIFORMES",
+  "family": "Estrildidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "White-rumped Munia (Lonchura striata), order PASSERIFORMES, family Estrildidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "House Sparrow",
+  "scientific": "Passer domesticus",
+  "order": "PASSERIFORMES",
+  "family": "Passeridae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "House Sparrow (Passer domesticus), order PASSERIFORMES, family Passeridae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Eurasian Tree Sparrow",
+  "scientific": "Passer montanus",
+  "order": "PASSERIFORMES",
+  "family": "Passeridae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Eurasian Tree Sparrow (Passer montanus), order PASSERIFORMES, family Passeridae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Russet Sparrow",
+  "scientific": "Passer cinnamomeus",
+  "order": "PASSERIFORMES",
+  "family": "Passeridae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Russet Sparrow (Passer cinnamomeus), order PASSERIFORMES, family Passeridae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Grey Wagtail",
+  "scientific": "Motacilla cinerea",
+  "order": "PASSERIFORMES",
+  "family": "Motacillidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Grey Wagtail (Motacilla cinerea), order PASSERIFORMES, family Motacillidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "White Wagtail",
+  "scientific": "Motacilla alba",
+  "order": "PASSERIFORMES",
+  "family": "Motacillidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "White Wagtail (Motacilla alba), order PASSERIFORMES, family Motacillidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "White-browed Wagtail",
+  "scientific": "Motacilla maderaspatensis",
+  "order": "PASSERIFORMES",
+  "family": "Motacillidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "White-browed Wagtail (Motacilla maderaspatensis), order PASSERIFORMES, family Motacillidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Olive-backed Pipit",
+  "scientific": "Anthus hodgsoni",
+  "order": "PASSERIFORMES",
+  "family": "Motacillidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Olive-backed Pipit (Anthus hodgsoni), order PASSERIFORMES, family Motacillidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Paddyfield Pipit",
+  "scientific": "Anthus rufulus",
+  "order": "PASSERIFORMES",
+  "family": "Motacillidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Paddyfield Pipit (Anthus rufulus), order PASSERIFORMES, family Motacillidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Tree Pipit",
+  "scientific": "Anthus trivialis",
+  "order": "PASSERIFORMES",
+  "family": "Motacillidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Tree Pipit (Anthus trivialis), order PASSERIFORMES, family Motacillidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Upland Pipit",
+  "scientific": "Anthus sylvanus",
+  "order": "PASSERIFORMES",
+  "family": "Motacillidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Upland Pipit (Anthus sylvanus), order PASSERIFORMES, family Motacillidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Common Rosefinch",
+  "scientific": "Carpodacus erythrinus",
+  "order": "PASSERIFORMES",
+  "family": "Fringillidae",
+  "gts": "",
+  "nts": "",
+  "cites": "III",
+  "text": "Common Rosefinch (Carpodacus erythrinus), order PASSERIFORMES, family Fringillidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: Appendix III."
+ },
+ {
+  "common": "Dark-breasted Rosefinch",
+  "scientific": "Procarduelis nipalensis",
+  "order": "PASSERIFORMES",
+  "family": "Fringillidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Dark-breasted Rosefinch (Procarduelis nipalensis), order PASSERIFORMES, family Fringillidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Himalayan White- browed Rosefinch",
+  "scientific": "Carpodacus thura",
+  "order": "PASSERIFORMES",
+  "family": "Fringillidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Himalayan White- browed Rosefinch (Carpodacus thura), order PASSERIFORMES, family Fringillidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Pink-browed Rosefinch",
+  "scientific": "Carpodacus rodochroa",
+  "order": "PASSERIFORMES",
+  "family": "Fringillidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Pink-browed Rosefinch (Carpodacus rodochroa), order PASSERIFORMES, family Fringillidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Brown Bullfinch",
+  "scientific": "Pyrrhula nipalensis",
+  "order": "PASSERIFORMES",
+  "family": "Fringillidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Brown Bullfinch (Pyrrhula nipalensis), order PASSERIFORMES, family Fringillidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Scarlet Finch",
+  "scientific": "Carpodacus sipahi",
+  "order": "PASSERIFORMES",
+  "family": "Fringillidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Scarlet Finch (Carpodacus sipahi), order PASSERIFORMES, family Fringillidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Grey-capped Goldfinch",
+  "scientific": "Carduelis caniceps",
+  "order": "PASSERIFORMES",
+  "family": "Fringillidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Grey-capped Goldfinch (Carduelis caniceps), order PASSERIFORMES, family Fringillidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Yellow-breasted Greenfinch",
+  "scientific": "Chloris spinoides",
+  "order": "PASSERIFORMES",
+  "family": "Fringillidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Yellow-breasted Greenfinch (Chloris spinoides), order PASSERIFORMES, family Fringillidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Chestnut-eared Bunting",
+  "scientific": "Emberiza fucata",
+  "order": "PASSERIFORMES",
+  "family": "Emberizidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Chestnut-eared Bunting (Emberiza fucata), order PASSERIFORMES, family Emberizidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Crested Bunting",
+  "scientific": "Emberiza lathami",
+  "order": "PASSERIFORMES",
+  "family": "Emberizidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Crested Bunting (Emberiza lathami), order PASSERIFORMES, family Emberizidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "Little Bunting",
+  "scientific": "Emberiza pusilla",
+  "order": "PASSERIFORMES",
+  "family": "Emberizidae",
+  "gts": "",
+  "nts": "VU",
+  "cites": "",
+  "text": "Little Bunting (Emberiza pusilla), order PASSERIFORMES, family Emberizidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: VU. CITES: not listed."
+ },
+ {
+  "common": "Rock Bunting",
+  "scientific": "Emberiza cia",
+  "order": "PASSERIFORMES",
+  "family": "Emberizidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "Rock Bunting (Emberiza cia), order PASSERIFORMES, family Emberizidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ },
+ {
+  "common": "White-capped Bunting",
+  "scientific": "Emberiza stewarti",
+  "order": "PASSERIFORMES",
+  "family": "Emberizidae",
+  "gts": "",
+  "nts": "",
+  "cites": "",
+  "text": "White-capped Bunting (Emberiza stewarti), order PASSERIFORMES, family Emberizidae. Recorded in Madane Forest Conservation Area. Global status: not listed. National status: not listed. CITES: not listed."
+ }
+]
