@@ -77,8 +77,15 @@ If the context begins with "Total matching records", use that number for countin
 If the context does not contain the answer, say you could not find it in the checklist.
 Do not guess or use outside knowledge. Keep answers clear and short."""
 
-st.title("🦅 Birds of Madane Forest: Checklist Chat")
-st.caption("Ask about a bird's conservation status. Answers come from the official checklist.")
+with st.sidebar:
+    st.header("About")
+    st.write(
+        "Answers come from the Birds of Madane Forest Conservation Area "
+        "checklist (Bird Conservation Nepal, 2025)."
+    )
+
+st.title("🦅 Madane Bird Status Assistant")
+st.caption("Ask me about any bird in Madane Forest. Version 2!")
 
 if "messages" not in st.session_state:
     st.session_state.messages = []
